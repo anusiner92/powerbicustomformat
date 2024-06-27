@@ -6,9 +6,9 @@ In many cases, we can change the output of a calculation depending on the outcom
 2. Evaluate the range and specify the output as follows:
 * If total is blank or zero then “N/A”
 * If total is between 0 and 1 then “<”
-* If total is between 1 and 1,000 then format number as ,234 if positive or (,234) if negative
-* If total is between 1,000 and 1,000,000 then format number as .2K if positive or (.2K) if negative
-* If total is greater than 1,000,000 then format number as .2M if positive or (.2M) if negative
+* If total is between 1 and 1,000 then format number as $1,234 if positive or ($1,234) if negative
+* If total is between 1,000 and 1,000,000 then format number as $1.2K if positive or ($1.2K) if negative
+* If total is greater than 1,000,000 then format number as $1.2M if positive or ($1.2M) if negative
 
 ![image](https://github.com/anusiner92/powerbicustomformat/assets/54285571/b0b8e5a7-b073-43af-b7d3-ec0fb7c46f9f)
 
