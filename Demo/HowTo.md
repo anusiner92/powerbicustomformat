@@ -10,7 +10,7 @@ In many cases, we can change the output of a calculation depending on the outcom
 * If total is between 1,000 and 1,000,000 then format number as $1.2K if positive or ($1.2K) if negative
 * If total is greater than 1,000,000 then format number as $1.2M if positive or ($1.2M) if negative
 
-![QT](https://github.com/anusiner92/powerbicustomformat/assets/54285571/e4253352-d2e0-4270-a48d-1cfa004b2d1c)
+![QT](https://github.com/anusiner92/powerbicustomformat/assets/54285571/e10415b9-4208-45f7-8f57-e5b2ce371fa2)
 
 For this case, the outputs are all in text form. These outputs work for visualizations that take in and show out text. These visualizations are card(s), table, matrix, and textbox. For visualizations that need an axis with numbers, there are more steps to follow. The next section explains how to get a custom format using bar charts or other visualizations that need an axis.
 
@@ -26,7 +26,7 @@ This measure only determines the position and not the value that is displayed. W
 
 Here is a sample of the position measure when we want to display quarterly sums for a legend with 3 different values (Audio, AV, and International). In this measure we will add up the amounts for each category separately and then show 0 for this sum if the calculation is anything less than zero. In the end we tie it all together by summing all three totals and multiplying by 1.05 to add padding to the position of the total.
 
-![image](https://github.com/anusiner92/powerbicustomformat/assets/54285571/423ec301-14e3-4acc-a653-bf6ddc431af7)
+![Position](https://github.com/anusiner92/powerbicustomformat/assets/54285571/56835dc8-5061-472b-b4b5-857f77e9f8bc)
 
 The following steps describe how to put trending visualizations together
 
