@@ -73,7 +73,7 @@ At this point, the visualization may look as shown below, with both position and
            
 14. Select the position measure in the series dropdown and expand the Value sub menu in the data labels format menu. Replace the Field value with the specific Format measure that’s applicable to the visualization that’s being worked on currently.
         
-![image](https://github.com/anusiner92/powerbicustomformat/assets/54285571/b599b3bb-868f-4f8f-84ad-42f1e455690b)
+![Format](https://github.com/anusiner92/powerbicustomformat/assets/54285571/e2a65682-4800-45fd-8994-2611530ad3eb)
 
 15. Expand the Options sub menu under the Data labels menu and set Position (line) = Above 
 
