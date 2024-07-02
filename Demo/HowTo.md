@@ -57,8 +57,8 @@ At this point, the visualization may look as shown below, with both position and
 
 10. Return to the semantic model file and uncomment the formatting conditions on the output of the format measure and republish to replace the past version of the semantic model.
 
-![image](https://github.com/anusiner92/powerbicustomformat/assets/54285571/6668ae3e-e208-4e05-9080-b7e95558f1f5)
- 
+![QT](https://github.com/anusiner92/powerbicustomformat/assets/54285571/e42f0ba3-527a-46ad-9f7f-63c2afc19b37)
+
 11. Refresh the visualization file to grab the latest publish on the target workspace. At this point the format line will go away from the visualization but both measures will remain in the field value
 
 ![image](https://github.com/anusiner92/powerbicustomformat/assets/54285571/dd8e4e1b-8882-481a-91f1-4c3d7eabc17a)
