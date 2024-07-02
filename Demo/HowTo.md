@@ -90,4 +90,4 @@ To make a legend for these custom bar charts that leaves out the total (line), w
 
 The order of layers is also intentional for each visualization group. These layers help to achieve the intended effect for each group. For instance, the legend visualization on a trending chart will always be placed at the lower part of the group to make it look like it belongs to the visualization that displays the actual trending data. Similarly, the cover shapes/visuals will go over other visualizations to prevent users from interacting with certain elements and to show conditional messages.
 
-![layers2](https://github.com/anusiner92/powerbicustomformat/assets/54285571/646a16f7-a4ec-4c4f-8006-e2de60144cc5)
+![layers2](https://github.com/anusiner92/powerbicustomformat/assets/54285571/c8ed161f-0325-4e70-9ff1-19e64cde985c)
