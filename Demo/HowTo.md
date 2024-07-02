@@ -41,7 +41,7 @@ The following steps describe how to put trending visualizations together
 
 At this point, the visualization may look something like this. Where all three legends are present plus the line that we added as the position.
 
-![Chart](https://github.com/anusiner92/powerbicustomformat/assets/54285571/cbe6c0d2-5d6c-414c-8e0f-22a768b2dc21)
+![Chart](https://github.com/anusiner92/powerbicustomformat/assets/54285571/ec19d3f8-88df-479d-9988-792d393e309a)
 
 6. In the semantic model, find the measure that defines the format. This is the measure that shows the total output. Make its data format numeric. This is because the Format measure of this visual will go on the Y-axis of the line and this field in the visual only takes numeric data types. Because the measure gives text, the file won’t let you change to any numeric format. So, a way to do this is to comment out the part after the RETURN statement and put a zero (0) instead. The measure should then switch to a whole number format automatically.
 
