@@ -45,7 +45,7 @@ At this point, the visualization may look something like this. Where all three l
 
 6. In the semantic model, find the measure that defines the format. This is the measure that shows the total output. Make its data format numeric. This is because the Format measure of this visual will go on the Y-axis of the line and this field in the visual only takes numeric data types. Because the measure gives text, the file won’t let you change to any numeric format. So, a way to do this is to comment out the part after the RETURN statement and put a zero (0) instead. The measure should then switch to a whole number format automatically.
 
-![image](https://github.com/anusiner92/powerbicustomformat/assets/54285571/703aaf8e-96e5-489f-ba16-7993ae1cf33a)
+![Measure code](https://github.com/anusiner92/powerbicustomformat/assets/54285571/a337b4bb-60c7-4fbd-9bbd-cde516f57fac)
 
 7. Now, save and publish the file to update the current semantic model and let the visualization file use this format measure with the numeric formatting.
 8. Once published and replaced, refresh the visualization file to grab the latest refresh into the workspace.
