@@ -53,7 +53,7 @@ At this point, the visualization may look something like this. Where all three l
 
 At this point, the visualization may look as shown below, with both position and format measures on the line Y-axis (note 0 line at the bottom of the Y-axis):
 
-![Chart2](https://github.com/anusiner92/powerbicustomformat/assets/54285571/b0c07f22-473e-4bc8-a53e-709850750f87)
+![Chart2](https://github.com/anusiner92/powerbicustomformat/assets/54285571/ab0e1f2d-03a1-44c5-bd4b-62f9e13e96a6)
 
 10. Return to the semantic model file and uncomment the formatting conditions on the output of the format measure and republish to replace the past version of the semantic model.
 
