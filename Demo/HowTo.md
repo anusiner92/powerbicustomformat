@@ -10,7 +10,7 @@ In many cases, we can change the output of a calculation depending on the outcom
 * If total is between 1,000 and 1,000,000 then format number as $1.2K if positive or ($1.2K) if negative
 * If total is greater than 1,000,000 then format number as $1.2M if positive or ($1.2M) if negative
 
-![image](https://github.com/anusiner92/powerbicustomformat/assets/54285571/b0b8e5a7-b073-43af-b7d3-ec0fb7c46f9f)
+![QT](https://github.com/anusiner92/powerbicustomformat/assets/54285571/e4253352-d2e0-4270-a48d-1cfa004b2d1c)
 
 For this case, the outputs are all in text form. These outputs work for visualizations that take in and show out text. These visualizations are card(s), table, matrix, and textbox. For visualizations that need an axis with numbers, there are more steps to follow. The next section explains how to get a custom format using bar charts or other visualizations that need an axis.
 
