@@ -86,7 +86,7 @@ At this point, the visualization may look as shown below, with both position and
 ## Visualization groupings
 To make a legend for these custom bar charts that leaves out the total (line), we need to make a secondary visualization that will serve as the legend. The secondary visualization will go on the layer under our main visualizations and will be grouped to keep order in all the visualizations that we will make on the page. These groups are useful for both getting the look and the functionality that we want, that might not be possible with one visualization alone. To see how the visualizations are grouped, look at the View pane in the visualization .pbix file. All the groups are shown with expand menus. Each expand menu has a new name to make it easier to tell what it is. For example, on the Overview page, the Quarterly Earnings Trends visual is made from 4 different separate visualizations:
 
-![image](https://github.com/anusiner92/powerbicustomformat/assets/54285571/f9b14d77-ceec-48f4-98ab-3493b76f9d95)
+![layers1](https://github.com/anusiner92/powerbicustomformat/assets/54285571/048a6b6f-b904-4046-ae99-76c64059c450)
 
 The order of layers is also intentional for each visualization group. These layers help to achieve the intended effect for each group. For instance, the legend visualization on a trending chart will always be placed at the lower part of the group to make it look like it belongs to the visualization that displays the actual trending data. Similarly, the cover shapes/visuals will go over other visualizations to prevent users from interacting with certain elements and to show conditional messages.
 
